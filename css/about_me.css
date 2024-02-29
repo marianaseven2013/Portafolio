@@ -1,0 +1,28 @@
+
+.perfil-img {
+    height: 35rem;
+    background-color: gray;
+    margin: auto;
+    padding: 1.5rem;
+
+    position: relative;
+
+    
+
+}
+.perfil-img img{
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+   object-position: bottom;
+   border: 0.8rem solid white;
+
+}
+
+/* width: 20rem;
+    height: 30rem;
+    background-color: grey;
+    margin: 2rem auto;
+    margin:  1.5rem;
+
+    background-color: blue; */

@@ -11,7 +11,7 @@ html {
 }
 
 .pantalla {
-    max-width: 375px; /* Maximo de pantalla */
+    max-width: 37.5rem; /* Maximo de pantalla */ /* por cada rem tiene una  */
     margin: auto;
     
 }
