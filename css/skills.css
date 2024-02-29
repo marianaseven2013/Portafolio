@@ -4,7 +4,7 @@
    width: 35%;
     height: 25%;
     border-radius: 1.5rem;
-    background-color: rgb(224, 224, 224);
+    background-color: rgb(194, 193, 193);
     margin: auto;
 
     display: flex;
@@ -32,14 +32,6 @@
 .lista-skills img {
     display: block;
     margin: auto;
-    /* background-color: lightcoral; */
+  
 }
-/* 
-.lista-skills p {
-    font-size: 1.6rem;
-    margin: 2rem 0px;
-    color: rgb(0, 0, 0);
-    text-align: center;
-    background-color: red;
-} */
 
