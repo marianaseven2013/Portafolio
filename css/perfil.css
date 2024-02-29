@@ -1,11 +1,96 @@
 .img-perfil {
-    width: 200px;
+    width: 250px;
     height: 300px;
-    margin: auto;
+    margin: 20px auto;
+    
+    
 }
 
-.img-perfil {
+.img-perfil img{
     width: 100%;
     height: 100%;
     object-fit: cover;
+}
+
+.informacion {
+    padding: 20px 0px;
+
+}
+
+.informacion  h1 {
+    font-size: 20px;
+}
+
+.informacion p {
+    margin-top: 5px;
+    font-family: 14px;
+    color: black;
+}
+.estado{
+    margin: 20px 0px;
+
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    font-size: 18px;
+    color: black;
+}
+
+.redes {
+    display: flex;
+    gap: 10px;
+    margin: 20px 0px;
+}
+
+.about{
+   font-size: 17px;
+
+   width: 35%;
+    height: 30%;
+    border-radius: 15px;
+    background-color: rgb(194, 193, 193);
+    margin: auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+
+.perfil-img {
+    width: 200px;
+    height: 300px;
+    margin: 20px auto;
+
+    background-color: blue;
+
+}
+.perfil-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.Info {
+    font-family: 60px;
+    color: black;
+}
+
+.info2 {
+    font-family: 60px;
+    color: black;
+}
+
+.info3 {
+    font-family: 60px;
+    color: black;
+}
+
+.viñetas {
+    gap: 5px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    column-count: 2;
 }
